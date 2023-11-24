@@ -1,0 +1,124 @@
+{
+    "menu": [
+      {
+        "category": "Appetizers",
+        "items": [
+          {
+            "name": "Truffle Infused Carpaccio",
+            "description": "Thinly sliced beef with truffle oil, parmesan, and arugula.",
+            "price": 18.99
+          },
+          {
+            "name": "Gourmet Bruschetta",
+            "description": "Toasted bread topped with tomatoes, basil, and balsamic glaze.",
+            "price": 14.50
+          },
+          {
+            "name": "Crispy Calamari",
+            "description": "Lightly fried calamari rings with lemon aioli.",
+            "price": 16.75
+          },
+          {
+            "name": "Caprese Skewers",
+            "description": "Mozzarella, cherry tomatoes, and basil drizzled with balsamic reduction.",
+            "price": 15.25
+          },
+          {
+            "name": "Foie Gras Pâté",
+            "description": "Rich and creamy duck liver pâté served with artisan crackers.",
+            "price": 22.50
+          }
+        ]
+      },
+      {
+        "category": "Entrees",
+        "items": [
+          {
+            "name": "Filet Mignon",
+            "description": "Tender filet grilled to perfection, served with a red wine reduction.",
+            "price": 32.99
+          },
+          {
+            "name": "Salmon Royale",
+            "description": "Pan-seared salmon with lemon herb butter and seasonal vegetables.",
+            "price": 28.75
+          },
+          {
+            "name": "Ribeye Delight",
+            "description": "Juicy ribeye steak seasoned and grilled to your liking.",
+            "price": 29.99
+          },
+          {
+            "name": "Lobster Tail Feast",
+            "description": "Butter-poached lobster tail with drawn butter and garlic.",
+            "price": 42.50
+          },
+          {
+            "name": "Vegetarian Harvest Plate",
+            "description": "Seasonal roasted vegetables with quinoa and herb dressing.",
+            "price": 24.50
+          }
+        ]
+      },
+      {
+        "category": "Sides",
+        "items": [
+          {
+            "name": "Truffle Fries",
+            "description": "Crispy fries tossed with truffle oil and parmesan.",
+            "price": 8.99
+          },
+          {
+            "name": "Garlic Mash",
+            "description": "Creamy mashed potatoes with roasted garlic.",
+            "price": 7.50
+          },
+          {
+            "name": "Grilled Asparagus",
+            "description": "Fresh asparagus spears grilled with olive oil and sea salt.",
+            "price": 9.75
+          },
+          {
+            "name": "Wild Mushroom Risotto",
+            "description": "Creamy risotto with a medley of wild mushrooms and truffle essence.",
+            "price": 14.50
+          },
+          {
+            "name": "Crispy Brussels Sprouts",
+            "description": "Roasted Brussels sprouts with crispy bacon and balsamic glaze.",
+            "price": 10.25
+          }
+        ]
+      },
+      {
+        "category": "Drinks",
+        "items": [
+          {
+            "name": "Signature Cocktail",
+            "description": "Crafted with premium spirits, fresh fruit, and a touch of elegance.",
+            "price": 12.50
+          },
+          {
+            "name": "Sparkling Elderflower Mocktail",
+            "description": "Bubbly and refreshing with elderflower syrup and sparkling water.",
+            "price": 9.99
+          },
+          {
+            "name": "Barrel-Aged Negroni",
+            "description": "Aged to perfection, a classic Negroni with a smoky twist.",
+            "price": 15.75
+          },
+          {
+            "name": "Cucumber Mint Cooler",
+            "description": "Crisp cucumber and fresh mint muddled with gin and simple syrup.",
+            "price": 11.25
+          },
+          {
+            "name": "Espresso Martini",
+            "description": "A decadent blend of vodka, coffee liqueur, and freshly brewed espresso.",
+            "price": 13.99
+          }
+        ]
+      }
+    ]
+  }
